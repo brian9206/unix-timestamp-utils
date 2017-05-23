@@ -1,0 +1,16 @@
+{
+  "name": "unix-timestamp-utils",
+  "version": "1.0.0",
+  "description": "UNIX Timestamp Utilities",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Choi",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.3.3"
+  },
+  "dependencies": {
+    "json-typescript-mapper": "^1.1.3"
+  }
+}
